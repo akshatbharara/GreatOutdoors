@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class UsernameTest {
+public class UserTest {
 	UserServiceImpl obj=new UserServiceImpl();
 	//UserConsole userConsole = new UserConsole();
 

@@ -23,7 +23,7 @@ public class UserConsole {
 		UserService userService=new UserServiceImpl();
 		int choice = 0;
 		User user = null;
-		List<User> list= null;
+		//List<User> list= null;
 		while(true){
 			
 			System.out.println("1. Register yourself");
